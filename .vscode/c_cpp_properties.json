@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "breno_projEditor Editor Win64 Development (breno_proj)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_breno_proj.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

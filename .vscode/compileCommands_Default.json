@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UNREAL\\breno_proj\\Source\\breno_proj\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default\\breno_proj.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UNREAL\\breno_proj\\Source\\breno_proj\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default\\breno_proj.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UNREAL\\breno_proj\\Source\\breno_proj\\breno_proj.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default\\breno_proj.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UNREAL\\breno_proj\\Source\\breno_proj\\breno_proj.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default\\breno_proj.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UNREAL\\breno_proj\\Source\\breno_proj\\breno_proj.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UNREAL\\breno_proj\\.vscode\\compileCommands_Default\\breno_proj.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
