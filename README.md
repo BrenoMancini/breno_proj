@@ -12,6 +12,14 @@ The project is a first-person survival game set in a labyrinth surrounded by ene
 - Press '1' to switch to character 1.
 - Press '2' to switch to character 2.
 
+Note: If you encounter an error while compiling on UE5 for the first time, it could be due to the version of Visual Studio used on the project. In such cases, you can resolve the issue by following these steps:
+
+- Pushing Live Coding.
+- Refresh the problematic node that's causing the issue.
+
+or
+- Manually compile the code on Visual Studio (sln) project
+
 ## Data Structure
 The entire structure is designed for quick adjustments without requiring code changes. They can be adjsuted on Data tables set under the folder "DATA".
 
@@ -58,4 +66,4 @@ Each situation is addressed using a behavior tree and enemy behavior.
 - **Out of Player's View:** Triggers a hunting behavior to seek out the player.
 - **In Player's Field of View, but Not Seen:** Indicates an obstruction, likely a wall, in the way.
   - **Ambush Behavior:** Utilizing EQS, the enemy finds the best nearby hiding spot and waits for an ambush.
-  - This can be turned off.
+  - This can be turned off if AmbushBehavior? Is set to false. Then the enemy will act like the player can always see them
