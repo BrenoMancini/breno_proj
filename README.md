@@ -67,3 +67,11 @@ Each situation is addressed using a behavior tree and enemy behavior.
 - **In Player's Field of View, but Not Seen:** Indicates an obstruction, likely a wall, in the way.
   - **Ambush Behavior:** Utilizing EQS, the enemy finds the best nearby hiding spot and waits for an ambush.
   - This can be turned off if AmbushBehavior? Is set to false. Then the enemy will act like the player can always see them
+
+### LEVEL
+
+
+The level was designed in a loop format, anticipating possible gates and keys.
+In the first room, the player spawns facing an enemy, and the exit is behind them, requiring them to turn around. The second room contains a micro landmark that will make them realize they have been there before once the loop is completed. A gate established at the beginning of the stage is an enemy facing away. This enemy only becomes active when the player reaches the end of the map, forming a connection with the entrance. This presents a convenient layout to add a key at the end of the map that opens a gate at the beginning.
+The level incorporates set pieces that serve as showcases for enemy behavior and the core mechanics. It's preferred to maintain continuous player movement throughout the experience.
+
